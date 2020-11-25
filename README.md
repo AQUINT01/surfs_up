@@ -27,7 +27,7 @@ However, these results are a snapshot of only two months out of the year.  Is th
 
 To seal W. Avy's investment, it would be wise to provide further studies such as;
 
-  - Running a regressional analysis between temperatures and ice cream sales
+  - Running a regressional analysis between temperatures and ice cream sales,
   - Creating queries for other locations with similar temperatures to Oahu, Hawaii, 
   - and presenting these findings in a scatter diagram to illustrate the results.
   
